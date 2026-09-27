@@ -12,7 +12,7 @@ Atualmente também estou aprofundando conhecimentos em **IA Generativa e integra
 
 ## 🚀 Projetos em destaque
 
-### 🎫 QueueFlow — Fluxo de Filas
+### 🎫 [QueueFlow — Fluxo de Filas](https://github.com/josechilala/QueueFlow)
 
 Plataforma **SaaS multi-tenant** para gerenciamento de filas físicas e virtuais, permitindo que organizações administrem unidades, serviços, filas, atendentes e chamadas em tempo real.
 
@@ -22,7 +22,7 @@ O projeto contempla diferentes jornadas para administração, atendimento, clien
 
 ---
 
-### 🛒 WebApp Compras — Compra Assistida
+### 🛒 [WebApp Compras — Compra Assistida](https://github.com/josechilala/WebApp_Compras)
 
 Plataforma de **compra assistida para mercados locais**, conectando clientes, mercados parceiros e compradores-entregadores.
 
@@ -34,8 +34,7 @@ O projeto trabalha com regras de negócio, controle de concorrência, auditoria,
 
 ---
 
-### 💳 ActDigital.Account.Api — API de Movimentações de Conta
-
+### 💳 [ActDigital.Account.Api — API de Movimentações de Conta](https://github.com/josechilala/ActDigital.Account.Api)
 API para gerenciamento de **movimentações financeiras de conta**, permitindo registrar créditos e débitos, consultar saldo e acessar o histórico de movimentações.
 
 A regra de negócio é encapsulada no domínio, impedindo operações de débito que resultem em saldo negativo. A solução utiliza persistência em memória thread-safe e mantém separação entre domínio, serviços e infraestrutura.
